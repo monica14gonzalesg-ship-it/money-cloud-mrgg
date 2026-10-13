@@ -37,7 +37,7 @@ element('app').innerHTML = `
     <header class="mb-8">
       <p class="font-semibold text-teal-700">MONEYCLOUD · LABORATORIO CLOUD</p>
       <h1 class="mt-2 text-3xl font-bold">Mis finanzas</h1>
-      <p class="text-slate-500">Demo académica. No introduzcas datos financieros reales.</p>
+      <p class="text-slate-500">Demo académica. No introduzcas datos financieros reales. Prueba ejemplo</p>
     </header>
 
     <div id="error" role="alert" class="mb-5 hidden rounded bg-red-100 p-3 text-red-900"></div>
