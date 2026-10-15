@@ -37,7 +37,7 @@ element('app').innerHTML = `
     <header class="mb-8">
       <p class="font-semibold text-teal-700">MONEYCLOUD · LABORATORIO CLOUD</p>
       <h1 class="mt-2 text-3xl font-bold">Mis finanzas</h1>
-      <p class="text-slate-500">Demo académica. No introduzcas datos financieros reales. Prueba ejemplo</p>
+      <p class="text-slate-500">Demo académica. No introduzcas datos financieros reales.</p>
     </header>
 
     <div id="error" role="alert" class="mb-5 hidden rounded bg-red-100 p-3 text-red-900"></div>
@@ -95,6 +95,14 @@ element('app').innerHTML = `
         <div id="list" class="space-y-3">Cargando...</div>
       </div>
     </section>
+
+    <footer class="mt-10 rounded-xl border bg-white p-5 text-sm text-slate-60">
+      <p class="font-semibold text-slate-900">Datos del alumno</p>
+      <p>Nombre: Monica Regina Gonzalez Granados</p>
+      <p>Nua: 285368</p>
+      <p>Materia: Computo en la nube</p>
+    </footer>
+
   </main>
 `;
 
