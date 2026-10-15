@@ -96,13 +96,13 @@ element('app').innerHTML = `
       </div>
     </section>
 
-    <footer class="mt-10 rounded-xl border bg-white p-5 text-sm text-slate-60">
-      <p class="font-semibold text-slate-900">Datos del alumno</p>
+    <footer class="mt-10 rounded-xl border bg-white p-5 text-sm text-slate-600">
+      <p class="font-semibold text-slate-900">Datos del Alumno</p>
       <p>Nombre: Monica Regina Gonzalez Granados</p>
       <p>Nua: 285368</p>
-      <p>Materia: Computo en la nube</p>
+      <p>Materia: Computo en la Nube</p>
     </footer>
-
+    
   </main>
 `;
 
